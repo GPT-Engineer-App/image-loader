@@ -1,6 +1,6 @@
 import { Building2, Ruler, Shield, Truck } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import FacilityFeature from "@/components/FacilityFeature";
+import { Button } from "../components/ui/button";
+import FacilityFeature from "../components/FacilityFeature";
 
 const Index = () => {
   const features = [
